@@ -1,2 +1,0 @@
-This is a sample text file named amit.txt.
-You can add more content here as needed.
